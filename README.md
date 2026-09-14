@@ -1,9 +1,9 @@
 # 外勤考勤下载
 
-当前基线版本为 **1.0**。
+当前基线版本为 **1.0（无激活瘦身版）**。
 
-- [下载 Mac 初始版本 1.0](./releases/tag/v1.0)
-- [直接下载 Mac 安装包](./releases/download/v1.0/field-attendance-mac-v1.0.zip)
-- Windows 通用版构建流程在私有源码仓库中，待确定发布方式后更新。
+- [打开最新发布页](./releases/tag/v1.0)
+- [下载 Mac 瘦身版](./releases/download/v1.0/field-attendance-mac-slim.zip)
+- [下载 Windows 通用版](./releases/download/v1.0/field-attendance-windows.zip)
 
-旧版本发布记录暂时保留，不作为当前基线。
+本版本保留现有界面与 Excel 分析基础功能，移除激活/密码限制，支持离线使用，并按实际拜访时间升序整理结果。
